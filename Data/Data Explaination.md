@@ -1,4 +1,7 @@
 # **Steam 数据集说明**
+Data Source: 
+1. https://www.kaggle.com/datasets/antonkozyriev/game-recommendations-on-steam?select=games.csv
+2. https://www.kaggle.com/datasets/nikdavis/steam-store-games?select=steamspy_tag_data.csv
 
 ## **1. user.csv（用户信息表）**
 | 字段名 | 含义 |
